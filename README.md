@@ -1,5 +1,5 @@
 ```
-# Smart Banmi Hospital (Smart BMH)
+# H1 Smart Banmi Hospital (Smart BMH)
 ```
 ระบบการส่งข้อมูลจากเครื่องวัดความดันเข้าสู่ HIS
 ระบบส่งข้อมูลความดันโลหิตอัตโนมัติ ( Automatic BP Data Transmition System )
