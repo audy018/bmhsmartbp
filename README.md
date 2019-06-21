@@ -1,7 +1,6 @@
 Smart Banmi Hospital (Smart BMH)
 ======
 > ระบบส่งข้อมูลความดันโลหิตอัตโนมัติ ( Automatic BP Data Transmition System )
-***
 อุปกรณ์ที่ต้องใช้
 1. เครื่องวัดความดันโลหิตอัตโนมัติที่มีช่อง D-Sub 9-pin / Bluetooth
 2. สาย DB9 ตัวผู้ 2 ทาง
