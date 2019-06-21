@@ -13,7 +13,7 @@ No. | Description
 **5** | Thumb Drive หรือ SD Card เพื่อติดตั้งระบบปฎิบ้ติการ Raspbian หรืออื่นๆ ที่สนับสนุนอุปกรณ์ขนาดเล็ก
 ------
 ### How to load source code.
-สามารถ Download โดยใช้ git หรือ ที่ปุ่ม `Clone or Download`
+สามารถ Download โดยใช้ git หรือ ที่ปุ่ม `Clone or download`
 
 `git clone https://github.com/muxmonster/bmhsmartbp .`
 
