@@ -1,6 +1,6 @@
 Smart Banmi Hospital (Smart BMH)
 ======
-ระบบส่งข้อมูลความดันโลหิตอัตโนมัติ ( Automatic BP Data Transmition System )
+ระบบส่งข้อมูลความดันโลหิตอัตโนมัติ ( Automatic BP Data Transmission System )
 ------
 > **อุปกรณ์ที่ต้องใช้**
 
@@ -19,4 +19,4 @@ No. | Description
 
 ให้นำไฟล์ที่อยู่ในโฟลเดอร์ sourcecode ไปใช้งาน
 
-[logo]: https://github.com/muxmonster/bmhsmartbp/blob/master/poster_Auto_BP.svg "Poster Automatic BP Transmission System"
+[logo]: https://github.com/muxmonster/bmhsmartbp/poster_Auto_BP.svg "Poster Automatic BP Transmission System"
