@@ -18,3 +18,5 @@ No. | Description
 `git clone https://github.com/muxmonster/bmhsmartbp .`
 
 ให้นำไฟล์ที่อยู่ในโฟลเดอร์ sourcecode ไปใช้งาน
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
