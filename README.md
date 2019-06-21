@@ -19,5 +19,4 @@ No. | Description
 
 ให้นำไฟล์ที่อยู่ในโฟลเดอร์ sourcecode ไปใช้งาน
 
-[logo]: https://github.com/muxmonster/bmhsmartbp/blob/master/poster_Auto_BP.jpg "Poster Automatic BP Transmission System"
-![alt text](https://github.com/muxmonster/bmhsmartbp/blob/master/poster_Auto_BP.jpg "Logo Title Text 1")
+![alt text](https://github.com/muxmonster/bmhsmartbp/blob/master/poster_Auto_BP.jpg "Poster Automatic BP Transmission System 🚑")
