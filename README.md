@@ -10,7 +10,7 @@ Smart Banmi Hospital (Smart BMH)
 > 5. Thumb Drive หรือ SD Card เพื่อติดตั้งระบบปฎิบ้ติการ Raspbian หรืออื่นๆ ที่สนับสนุนอุปกรณ์ขนาดเล็ก
 ---
 No. | Description
---- | --- | ---
+--- | ---
 **1** | เครื่องวัดความดันโลหิตอัตโนมัติที่มีช่อง D-Sub 9-pin / Bluetooth
 **2** | สาย DB9 ตัวผู้ 2 ทาง
 **3** | หัวแปลง DB9 เป็น USB
