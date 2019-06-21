@@ -19,4 +19,4 @@ No. | Description
 
 ให้นำไฟล์ที่อยู่ในโฟลเดอร์ sourcecode ไปใช้งาน
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/muxmonster/bmhsmartbp/blob/master/poster_Auto_BP.svg "Poster Automatic BP Transmission System"
