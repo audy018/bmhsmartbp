@@ -3,8 +3,7 @@ Smart Banmi Hospital (Smart BMH)
 ระบบส่งข้อมูลความดันโลหิตอัตโนมัติ ( Automatic BP Data Transmission System )
 ------
 ![alt text](https://github.com/muxmonster/bmhsmartbp/blob/master/auto_bp.jpg "Poster Automatic BP Transmission System 🚑")
-> **อุปกรณ์ที่ต้องใช้**
-
+### **อุปกรณ์ที่ต้องใช้**
 No. | Description
 --- | ---
 **1** | เครื่องวัดความดันโลหิตอัตโนมัติที่มีช่อง D-Sub 9-pin / Bluetooth
