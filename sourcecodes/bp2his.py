@@ -121,7 +121,7 @@ while 1:
                             )
 			
                         mycursor = mydb.cursor()
-			mycursor_rep = 
+			mycursor_rep = mydb_rep.cursor()
                         if mydb.is_connected():
                           sql = "UPDATE opdscreen SET bps = %s, bpd = %s, pulse = %s  WHERE vn = %s"
                           sql_max_opdscreen_bp_id = "SELECT MAX(opdscreen_bp_id) FROM opdscreen_bp"
