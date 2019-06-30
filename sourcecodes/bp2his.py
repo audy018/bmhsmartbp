@@ -100,7 +100,7 @@ while 1:
 			db_rep = ""
 			p_rep = ""
 			'''
-			; Config ```master``` HIS Server
+			; Config master HIS Server
 			'''
                         mydb = mysql.connector.connect(
                             host=iphost,
@@ -110,7 +110,7 @@ while 1:
                             port=p
                             )
 			'''
-			; Config ```replicate``` HIS Server.
+			; Config replicate HIS Server.
 			'''
                         mydb_rep = mysql.connector.connect(
                             host=iphost_rep,
