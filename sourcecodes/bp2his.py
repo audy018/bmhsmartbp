@@ -87,14 +87,21 @@ while 1:
                         pulse = pulse[1]
                         f_tmp.write(pt_vn + '|' + bps + '|' + bpd + '|' + pulse )
                         '''
-                        Config connection to HIS
+                        Config connection to HIS and Replicate server.
                         '''
                         iphost = ""
                         uid = ""
                         pw = ""
                         db = ""
                         p = "" # Port
-
+			iphost_rep = ""
+			uid_rep = ""
+			pw_rep = ""
+			db_rep = ""
+			p_rep = ""
+			'''
+			; Config `master` HIS Server
+			'''
                         mydb = mysql.connector.connect(
                             host=iphost,
                             user=uid,
@@ -102,7 +109,19 @@ while 1:
                             database=db,
                             port=p
                             )
-                        mycursor = mydb.cursor()                        
+			'''
+			; Config `replicate` HIS Server.
+			'''
+                        mydb_rep = mysql.connector.connect(
+                            host=iphost_rep,
+                            user=uid_rep,
+                            passwd=pw_rep,
+                            database=db_rep,
+                            port=p_rep
+                            )
+			
+                        mycursor = mydb.cursor()
+			mycursor_rep = 
                         if mydb.is_connected():
                           sql = "UPDATE opdscreen SET bps = %s, bpd = %s, pulse = %s  WHERE vn = %s"
                           sql_max_opdscreen_bp_id = "SELECT MAX(opdscreen_bp_id) FROM opdscreen_bp"
