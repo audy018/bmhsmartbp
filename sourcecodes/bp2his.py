@@ -92,13 +92,19 @@ class PrintObserver(CardObserver):
             # print("+Inserted: ", result)
             print( "CID :: \x1b[6;30;47m", result ,"\x1b[0m"+" "+"\x1b[2;30;43m[OK]\x1b[0m" )
             # Insert data to HOSxP below here
-
+            
+            """
+            ระบุ IP Address ในช่อง host
+            ระบุ ชื่อ database ในช่อง database
+            ระบุ user ของ database ในช่อง user
+            ระบุ password ของ database ในช่อง password
+            """
             from mysql.connector import Error
             try:
-                connection = mysql.connector.connect(host='192.168.2.66',
-                                                    database='hos',
-                                                    user='banmi',
-                                                    password='L^opN8v,')
+                connection = mysql.connector.connect(host='xxx.xxx.xxx.xxx',
+                                                    database='ddd',
+                                                    user='uuu',
+                                                    password='ppp')
                 if connection.is_connected():
                     db_Info = connection.get_server_info()
                     #print("Connected to HOSxP", db_Info)
